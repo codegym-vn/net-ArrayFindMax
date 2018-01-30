@@ -1,0 +1,6 @@
+D:\CodeGYM\Example\8.4\ArrayFindMax\ArrayFindMax\bin\Debug\ArrayFindMax.exe.config
+D:\CodeGYM\Example\8.4\ArrayFindMax\ArrayFindMax\bin\Debug\ArrayFindMax.exe
+D:\CodeGYM\Example\8.4\ArrayFindMax\ArrayFindMax\bin\Debug\ArrayFindMax.pdb
+D:\CodeGYM\Example\8.4\ArrayFindMax\ArrayFindMax\obj\Debug\ArrayFindMax.csprojResolveAssemblyReference.cache
+D:\CodeGYM\Example\8.4\ArrayFindMax\ArrayFindMax\obj\Debug\ArrayFindMax.exe
+D:\CodeGYM\Example\8.4\ArrayFindMax\ArrayFindMax\obj\Debug\ArrayFindMax.pdb
